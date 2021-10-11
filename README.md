@@ -6,6 +6,6 @@
 * Descripting title element
 * Logical structure using HTML5 semantic elements (header, main, section, footer etc.)
 
-##### Image of the Homepage
-![Optimized Horiseon Homepage](https://github.com/mrahma04/horiseon)
+##### Image of the Optimized Homepage
+![Optimized Horiseon Homepage](https://github.com/mrahma04/horiseon/blob/main/assets/images/screencapture-mrahma04-github-io-horiseon-2021-10-10-22_23_18.png)
 
